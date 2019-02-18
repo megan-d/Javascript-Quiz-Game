@@ -23,3 +23,15 @@ body {
     margin: 1rem;
     font-size: 1.5rem;
 }
+
+.answers label {
+    display: block;
+    text-align: left;
+    margin: 0.2rem auto;
+    width: 50%;
+}
+
+.question {
+    font-weight: 700;
+    padding: 1rem;
+}
