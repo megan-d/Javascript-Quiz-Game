@@ -1,0 +1,25 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    text-align: center;
+}
+
+#quiz {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.sub-button {
+    padding: 0.5rem;
+    margin: 2rem;
+}
+
+#start-quiz {
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+}
